@@ -7,7 +7,9 @@ Team ID : NM2025TMID03545
 Team Size : 3
 
 Team Leader : Jeyathakseena.R
+
 Team member : Thirthikka.K
+
 Team member : Kanishka.S
 
-Demo Vedio Link: https://drive.google.com/file/d/19dNHFpnkT1t__3-P8v7SfFYAZpAYB6dN/view?usp=sharing
+Demo Video Link: https://drive.google.com/file/d/19dNHFpnkT1t__3-P8v7SfFYAZpAYB6dN/view?usp=sharing
